@@ -27,4 +27,4 @@ In risk management, availability and performance are critical metrics. I applied
 * Advanced SEO architecture to ensure high visibility without compromising loading speeds or security.
 
 ---
-*For more details about my professional background in GRC and Cybersecurity, please visit my [LinkedIn Profile](AQUÍ_TU_LINK_DE_LINKEDIN).*
+*For more details about my professional background in GRC and Cybersecurity, please visit my [LinkedIn Profile](https://www.linkedin.com/in/luis-angel-batista-7b800817a/).*
